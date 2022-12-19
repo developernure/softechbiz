@@ -30,7 +30,7 @@
   text-decoration: none;
   text-transform: capitalize;
   list-style: none;
-  /* transition: all 0.5s linear; */
+  transition: all 0.5s linear;
   scroll-behavior: smooth;
 }
 /* Universal Selector Ends */
